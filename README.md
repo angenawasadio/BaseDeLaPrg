@@ -1,4 +1,4 @@
-# BaseDeLaPrg
+# LearnGitBranching
 # https://learngitbranching.js.org/?locale=fr_FR
 Bienvenue sur Learn Git Branching !
 
